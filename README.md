@@ -6,7 +6,7 @@
 />
 
 <img
-  src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=18&duration=2600&pause=200&color=9AEFE3&center=true&vCenter=true&width=360&lines=VPN"
+  src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=18&duration=2600&pause=150&color=9AEFE3&center=true&vCenter=true&width=360&lines=VPN"
   alt="VPN"
 />
 
